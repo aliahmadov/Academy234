@@ -1,0 +1,13 @@
+﻿  Source.cpp
+C:\Users\eliah\source\repos\Academy1\Academy1\Functions.h(90,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\eliah\source\repos\Academy1\Academy1\Functions.h(102,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\eliah\source\repos\Academy1\Academy1\Functions.h(104,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\eliah\source\repos\Academy1\Academy1\Functions.h(124,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\eliah\source\repos\Academy1\Academy1\Functions.h(132,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\eliah\source\repos\Academy1\Academy1\Functions.h(146,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\eliah\source\repos\Academy1\Academy1\Functions.h(153,11): warning C4129: '=': unrecognized character escape sequence
+C:\Users\eliah\source\repos\Academy1\Academy1\Functions.h(187,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\eliah\source\repos\Academy1\Academy1\Functions.h(220,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\eliah\source\repos\Academy1\Academy1\Functions.h(229,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\eliah\source\repos\Academy1\Academy1\Source.cpp(12,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Academy1.vcxproj -> C:\Users\eliah\source\repos\Academy1\Debug\Academy1.exe
