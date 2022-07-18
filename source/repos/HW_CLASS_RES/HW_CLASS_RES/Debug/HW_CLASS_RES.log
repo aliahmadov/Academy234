@@ -1,0 +1,13 @@
+﻿  Source.cpp
+C:\Users\eliah\source\repos\HW_CLASS_RES\HW_CLASS_RES\Source.cpp(266,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\eliah\source\repos\HW_CLASS_RES\HW_CLASS_RES\Source.cpp(275,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\eliah\source\repos\HW_CLASS_RES\HW_CLASS_RES\Source.cpp(287,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\eliah\source\repos\HW_CLASS_RES\HW_CLASS_RES\Source.cpp(300,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\eliah\source\repos\HW_CLASS_RES\HW_CLASS_RES\Source.cpp(305,52): warning C4018: '<': signed/unsigned mismatch
+C:\Users\eliah\source\repos\HW_CLASS_RES\HW_CLASS_RES\Source.cpp(411,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\eliah\source\repos\HW_CLASS_RES\HW_CLASS_RES\Source.cpp(427,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\eliah\source\repos\HW_CLASS_RES\HW_CLASS_RES\Source.cpp(457,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\eliah\source\repos\HW_CLASS_RES\HW_CLASS_RES\Source.cpp(496,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\eliah\source\repos\HW_CLASS_RES\HW_CLASS_RES\Source.cpp(528,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\eliah\source\repos\HW_CLASS_RES\HW_CLASS_RES\Source.cpp(557,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  HW_CLASS_RES.vcxproj -> C:\Users\eliah\source\repos\HW_CLASS_RES\Debug\HW_CLASS_RES.exe

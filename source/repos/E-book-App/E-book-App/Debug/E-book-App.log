@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\eliah\source\repos\E-book-App\E-book-App\DatabaseController.h(39,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\eliah\source\repos\E-book-App\E-book-App\DatabaseController.h(105,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\eliah\source\repos\E-book-App\E-book-App\DatabaseController.h(180,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\eliah\source\repos\E-book-App\E-book-App\Source.cpp(6,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  E-book-App.vcxproj -> C:\Users\eliah\source\repos\E-book-App\Debug\E-book-App.exe
