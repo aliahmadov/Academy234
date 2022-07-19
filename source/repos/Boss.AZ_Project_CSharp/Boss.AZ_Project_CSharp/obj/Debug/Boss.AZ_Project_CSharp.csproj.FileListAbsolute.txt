@@ -1,0 +1,11 @@
+C:\Users\eliah\source\repos\Boss.AZ_Project_CSharp\Boss.AZ_Project_CSharp\bin\Debug\Boss.AZ_Project_CSharp.exe.config
+C:\Users\eliah\source\repos\Boss.AZ_Project_CSharp\Boss.AZ_Project_CSharp\bin\Debug\Boss.AZ_Project_CSharp.exe
+C:\Users\eliah\source\repos\Boss.AZ_Project_CSharp\Boss.AZ_Project_CSharp\bin\Debug\Boss.AZ_Project_CSharp.pdb
+C:\Users\eliah\source\repos\Boss.AZ_Project_CSharp\Boss.AZ_Project_CSharp\obj\Debug\Boss.AZ_Project_CSharp.csproj.AssemblyReference.cache
+C:\Users\eliah\source\repos\Boss.AZ_Project_CSharp\Boss.AZ_Project_CSharp\obj\Debug\Boss.AZ_Project_CSharp.csproj.SuggestedBindingRedirects.cache
+C:\Users\eliah\source\repos\Boss.AZ_Project_CSharp\Boss.AZ_Project_CSharp\obj\Debug\Boss.AZ_Project_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\eliah\source\repos\Boss.AZ_Project_CSharp\Boss.AZ_Project_CSharp\obj\Debug\Boss.AZ_Project_CSharp.exe
+C:\Users\eliah\source\repos\Boss.AZ_Project_CSharp\Boss.AZ_Project_CSharp\obj\Debug\Boss.AZ_Project_CSharp.pdb
+C:\Users\eliah\source\repos\Boss.AZ_Project_CSharp\Boss.AZ_Project_CSharp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\eliah\source\repos\Boss.AZ_Project_CSharp\Boss.AZ_Project_CSharp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\eliah\source\repos\Boss.AZ_Project_CSharp\Boss.AZ_Project_CSharp\obj\Debug\Boss.AZ_Project_CSharp.csproj.CopyComplete

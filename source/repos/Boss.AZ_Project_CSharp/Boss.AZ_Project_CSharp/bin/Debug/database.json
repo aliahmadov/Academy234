@@ -1,0 +1,111 @@
+{
+  "Employers": [
+    {
+      "Vacancies": [
+        {
+          "Id": 1,
+          "BeginTime": "2022-07-19T01:08:13.1767248+04:00",
+          "ExpiredTime": "2022-08-19T01:08:13.1767248+04:00",
+          "Email": "aahmadov7626@ada.edu.az",
+          "Phones": "050-311-11-11",
+          "Category": "Front End Developer",
+          "Position": "Head Manager",
+          "City": "Baku",
+          "MinSalary": "2000",
+          "MaxSalary": "3500",
+          "MinAge": "20",
+          "MaxAge": "30",
+          "Education": "Bachelor, Master",
+          "ExperienceDuration": "3",
+          "Requirements": "\r\n\r\n    Experience in strategic planning and business analytics.\r\n    Ability to lead, inspire and motivate teams.\r\n    Strong presentation and negotiation skills.\r\n    Excellent verbal and written communication in [X] language.\r\n    [X] degree in Business Administration or relevant fields.\r\n",
+          "AboutWork": "\r\n    We are looking for an experienced Strategy Manager. You will work directly with C-suite level executives to ensure that daily objectives, reports, and metrics align directly with the company’s goals.\r\n\r\n    Evaluate new business models and corporate relationships.\r\n    Negotiate complex business models, partnerships, transactions, and other commercial agreements.\r\n    Identify and target attainable opportunities in the market.\r\n    Clearly define company goals and long-term strategy.\r\n    Examine the profitability of each product, store location, and line of business in order to redirect resources.\r\n    Utilize skills in project management to lead large teams in change processes.\r\n    Develop methods for motivating and inspiring stakeholders.\r\n    Leverage professional networks to attain critical resources.\r\n    Provide training materials for process owners who need support.\r\n\r\n",
+          "CompanyName": "Game Developer X",
+          "Appliers": []
+        }
+      ],
+      "VacancyCount": 1,
+      "Id": 3,
+      "Age": 25,
+      "Username": "admin",
+      "Password": "admin",
+      "Name": "John",
+      "Surname": "Wick",
+      "City": "Baku",
+      "Phone": "050-432-45-32",
+      "Notifications": [
+        {
+          "Id": 1,
+          "Message": "John with ID 2 has applied to your add with ID 1",
+          "Time": "2022-07-19T01:08:40.5068855+04:00"
+        },
+        {
+          "Id": 2,
+          "Message": "Ali with ID 1 has applied to your add with ID 1",
+          "Time": "2022-07-19T01:08:56.1663361+04:00"
+        }
+      ]
+    }
+  ],
+  "Workers": [
+    {
+      "CVs": [
+        {
+          "Id": 1,
+          "Speciality": "Programmer",
+          "School": "Zangi Liceum",
+          "UniScore": "653",
+          "Skills": [
+            "C#, C++"
+          ],
+          "Companies": [],
+          "BeginDate": "2015-01-01T00:00:00",
+          "EndDate": "2018-05-05T00:00:00",
+          "Languages": [
+            "English",
+            "Turkish",
+            "Russian"
+          ],
+          "HasCertificate": true,
+          "Links": [
+            "https://github.com/"
+          ]
+        }
+      ],
+      "CvCount": 1,
+      "Id": 1,
+      "Age": 20,
+      "Username": "user",
+      "Password": "user",
+      "Name": "Ali",
+      "Surname": "Ahmadov",
+      "City": "Baku",
+      "Phone": "050-311-72-66",
+      "Notifications": [
+        {
+          "Id": 9,
+          "Message": "Good News - You have been accepted for advertisement with ID 1 by employer John !!!",
+          "Time": "2022-07-19T01:09:35.9534398+04:00"
+        }
+      ]
+    },
+    {
+      "CVs": [],
+      "CvCount": 0,
+      "Id": 2,
+      "Age": 20,
+      "Username": "user1",
+      "Password": "user1",
+      "Name": "John",
+      "Surname": "Wick",
+      "City": "Sumqayit",
+      "Phone": "070-310-23-11",
+      "Notifications": [
+        {
+          "Id": 5,
+          "Message": "Sad News - You have been rejected for advertisement with ID 1 by employer John !!!",
+          "Time": "2022-07-19T01:09:18.8904565+04:00"
+        }
+      ]
+    }
+  ]
+}
